@@ -1,0 +1,61 @@
+Controller
+----------------
+
+@PostMapping("/addEmployees")
+
+public String addEmployees1(@RequestBody List<Employee> employee) {
+	
+	return empService.addEmployees(employee);
+}
+@DeleteMapping("/deleteEmployee/{id}")
+	
+public String deleteEmployee(@PathVariable int id) {
+	return empService.deleteEmployee(id);
+}
+@PostMapping("/deleteEmployees")
+
+public String deleteEmployees(@RequestBody List<Employee>   id) {
+	return empService.deleteEmployees(id);
+}
+
+Service
+----------
+
+public String addEmployees(List<Employee> empStr);
+	public String deleteEmployee(int id);
+	public String deleteEmployees(List<Employee> id);
+	public String getEmployee(int id);
+	public String getEmployeeByName(String name);
+
+impl
+------
+
+	@Override
+	public String deleteEmployee(int id) {
+		employeeRep.deleteById(id);
+		return "**Deleted***";
+	}
+	
+	
+	
+	@Override
+	public String getEmployee(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public String getEmployeeByName(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public String addEmployees(List<Employee> empStr) {
+		List<Employee> lst=(List<Employee>) employeeRep.saveAll(empStr);
+return "***Create succesfully**";
+	}
+	@Override
+	public String deleteEmployees(List<Employee> id) {
+		employeeRep.deleteAll(id);
+		return "*Record Deleted*888";
+	}
+	

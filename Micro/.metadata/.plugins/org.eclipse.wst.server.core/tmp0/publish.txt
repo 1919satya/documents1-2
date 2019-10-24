@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Sep 27 10:04:13 IST 2019
+org.eclipse.jst.jee.server\:BankWebClient=C\:\\Software\\STS 3.9_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\BankWebClient
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\coalesce\\.m2\\repository\\org\\springframework\\spring-web\\5.1.9.RELEASE\\spring-web-5.1.9.RELEASE.jar=C\:\\Software\\STS 3.9_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\bank-webclient\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE.jar
+org.eclipse.jst.jee.server\:bank-webclient=C\:\\Software\\STS 3.9_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\bank-webclient

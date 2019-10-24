@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.hcl.SpringData.EmployeeDAO&apos; to &apos;EmployeeRepository&apos;&#x0D;&#x0A;- Original project: &apos;springData&apos;&#x0D;&#x0A;- Original element: &apos;com.hcl.SpringData.EmployeeDAO&apos;&#x0D;&#x0A;- Renamed element: &apos;com.hcl.SpringData.EmployeeRepository&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EmployeeDAO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.hcl.SpringData{EmployeeDAO.java[EmployeeDAO" matchStrategy="1" name="EmployeeRepository" qualified="false" references="true" similarDeclarations="false" stamp="1571131335342" textual="false" version="1.0"/>
+</session>

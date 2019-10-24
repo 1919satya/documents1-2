@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee SYSTEM "Employee.dtd">
+<employees>
+  <employee>
+    <empNo>1</empNo>
+    <empName>Satya</empNo>
+    <band>E</band>
+    <salary>4000</salary>
+    <dateOfJoin>28-07-2019</dateOfJoin>
+     </employee>
+<employee>
+<empNo>2</empNo>
+    <empName>Sai</empNo>
+    <band>M</band>
+    <salary>3000</salary>
+    <dateOfJoin>30-07-2019</dateOfJoin>
+     </employee>
+<employee>
+<empNo>3</empNo>
+    <empName>Sagar</empNo>
+    <band>C</band>
+    <salary>5000</salary>
+    <dateOfJoin>18-07-2019</dateOfJoin>
+     </employee>
+<employees>
+
+
+
+
+       <employee
+    empNo="1",
+    <empName>Satya</empNo>
+    <band>E</band>
+    <salary>4000</salary>
+    <dateOfJoin>28-07-2019</dateOfJoin>
+     </employee>

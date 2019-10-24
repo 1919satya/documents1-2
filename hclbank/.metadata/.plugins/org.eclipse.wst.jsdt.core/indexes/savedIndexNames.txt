@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\Users\coalesce\Documents\hclbank\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+753657744.index
+4257829306.index
+434979929.index
+2745496218.index
+67618307.index
+3426408605.index
+3587031292.index
+1796165095.index
+1329713527.index
+1834869064.index

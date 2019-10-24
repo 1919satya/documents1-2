@@ -1,0 +1,20 @@
+package com.hcl.SpringData;
+
+
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+@Repository
+
+public interface EmployeeRepository extends CrudRepository<Employ, Integer> {
+
+	@Query("select e from Employ e where dept=?1 and desig=?2")
+	List<Employ>findByDeptAndDesign(String department, String designation);
+	
+	@Query("select e from Employ e where dept=?1 and Basic=?2")
+	List<Employ>findByDeptAndBasic(String department, int basic);
+	
+}

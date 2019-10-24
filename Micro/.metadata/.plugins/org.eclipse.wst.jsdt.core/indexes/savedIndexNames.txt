@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\Users\coalesce\Documents\Micro\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1535391871.index
+2149750324.index
+2745496218.index
+48270185.index
+4144958646.index
+1180736020.index
+3426408605.index
+1092946135.index
+2622084874.index
+242910179.index

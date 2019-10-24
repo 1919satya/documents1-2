@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\coalesce\Documents\Micro\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2443879776.index
+\BankWebClient\src\main\java
+C:\Users\coalesce\Documents\Micro\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1947755027.index
+\com.hcl.web\src\main\java
+C:\Users\coalesce\Documents\Micro\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1329713527.index
+\bank-webclient\src\main\java
+C:\Users\coalesce\Documents\Micro\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1120537112.index
+\com.doj.web\src\main\java

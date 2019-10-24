@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee empNo=1 empName=Satya band=E salary=4000 dateOfJoin=28-07-2019> </employee>
+  <employee empNo=2 empName=Sai band=M salary=5000 dateOfJoin=18-07-2019> </employee>
+   <employee empNo=3 empName=Sagar band=C salary=6000 dateOfJoin=08-07-2019> </employee>
+    
+    
+    
+    
+    

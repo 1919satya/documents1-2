@@ -1,0 +1,11 @@
+package com.hcl.SpringData;
+
+
+
+import org.springframework.data.repository.CrudRepository;
+
+
+public interface EmployeeDAO extends CrudRepository<Employ, Integer> {
+
+	
+}
